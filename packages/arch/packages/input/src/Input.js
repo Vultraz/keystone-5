@@ -1,6 +1,4 @@
 // @flow
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { forwardRef } from 'react';
 
 import { uniformHeight } from '@arch-ui/common';

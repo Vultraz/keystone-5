@@ -1,7 +1,3 @@
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
-
 const Preview = ({ data, originalUrl, fieldPath, ...props }) => {
   if (!data) {
     return null;

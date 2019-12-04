@@ -1,7 +1,4 @@
 // @flow
-
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { Children, cloneElement, type Node, forwardRef } from 'react';
 import styled from '@emotion/styled';
 

@@ -1,7 +1,4 @@
 // @flow
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
 import { Component, useEffect, useState } from 'react';
 import { ChevronLeftIcon, ChevronRightIcon, ListOrderedIcon } from '@arch-ui/icons';
 import { FlexGroup } from '@arch-ui/layout';

@@ -1,11 +1,8 @@
-/** @jsx jsx */
-
 import React, { Component } from 'react'; // eslint-disable-line no-unused-vars
 import { withRouter, Route, Link } from 'react-router-dom';
 import PropToggle from 'react-prop-toggle';
 import { uid } from 'react-uid';
 import styled from '@emotion/styled';
-import { jsx } from '@emotion/core';
 
 import { colors, gridSize } from '@arch-ui/theme';
 import { alpha } from '@arch-ui/color-utils';

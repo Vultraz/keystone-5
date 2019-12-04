@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { useState } from 'react';
 
 import { mq } from '../../utils/media';

@@ -1,8 +1,5 @@
 // @flow
-
-/** @jsx jsx */
 import { forwardRef } from 'react';
-import { jsx } from '@emotion/core';
 import styled from '@emotion/styled';
 
 import { LoadingIndicator, LoadingSpinner } from '@arch-ui/loading';

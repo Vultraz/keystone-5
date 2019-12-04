@@ -1,6 +1,4 @@
 import React from 'react'; // eslint-disable-line no-unused-vars
-import { jsx } from '@emotion/core';
-/** @jsx jsx */
 
 import Button from '../components/Button';
 

@@ -1,7 +1,4 @@
-/** @jsx jsx */
-
 import React, { useEffect, useRef, useState } from 'react'; // eslint-disable-line no-unused-vars
-import { jsx } from '@emotion/core';
 import { gridSize } from '@arch-ui/theme';
 import throttle from 'lodash.throttle';
 import { colors } from '@arch-ui/theme';

@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { useMemo } from 'react';
 import insertImages from 'slate-drop-or-paste-images';
 import imageExtensions from 'image-extensions';

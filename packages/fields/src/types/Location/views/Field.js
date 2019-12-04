@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { useState } from 'react';
 import { useToasts } from 'react-toast-notifications';
 import { FieldContainer, FieldLabel, FieldInput } from '@arch-ui/fields';

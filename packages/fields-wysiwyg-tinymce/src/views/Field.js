@@ -1,6 +1,3 @@
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
 import { Component } from 'react';
 
 import { FieldContainer, FieldLabel } from '@arch-ui/fields';

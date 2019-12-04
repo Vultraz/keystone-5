@@ -1,8 +1,5 @@
-/** @jsx jsx */
-
 import { Query } from 'react-apollo';
 import getConfig from 'next/config';
-import { jsx } from '@emotion/core';
 
 import { Avatar, Container, Error, H1, H2, H3, Html, Loading } from '../primitives';
 import Navbar from '../components/Navbar';

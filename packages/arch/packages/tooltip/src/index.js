@@ -1,7 +1,4 @@
 // @flow
-
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { Component, createRef, Fragment, type Ref, type Node } from 'react';
 import { createPortal } from 'react-dom';
 import flushable from 'flushable';

@@ -1,7 +1,4 @@
 // @flow
-
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { type Node, forwardRef } from 'react';
 import { Link } from 'react-router-dom';
 import { withPseudoState } from 'react-pseudo-state';

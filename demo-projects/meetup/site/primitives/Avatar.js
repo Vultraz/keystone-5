@@ -1,7 +1,4 @@
-/** @jsx jsx */
-
 import PropTypes from 'prop-types';
-import { jsx } from '@emotion/core';
 
 function getInitials(str) {
   if (str == null) return '';

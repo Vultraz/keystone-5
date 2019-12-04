@@ -1,7 +1,4 @@
 import Link from 'next/link';
-import { jsx } from '@emotion/core';
-
-/** @jsx jsx */
 
 export default () => (
   <header

@@ -1,11 +1,8 @@
 // @flow
-/** @jsx jsx */
-
 import { Component, type Node as ReactNode, type Element } from 'react';
 import { Link } from 'react-router-dom';
 import { createPortal } from 'react-dom';
 import styled from '@emotion/styled';
-import { jsx } from '@emotion/core';
 
 import { borderRadius, colors, gridSize, shadows } from '@arch-ui/theme';
 import { FocusTrap } from 'react-focus-marshal';

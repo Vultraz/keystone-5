@@ -1,8 +1,5 @@
-/** @jsx jsx */
-
 import React, { useEffect, useRef, useState } from 'react'; // eslint-disable-line no-unused-vars
 import throttle from 'lodash.throttle';
-import { jsx } from '@emotion/core';
 import { colors, gridSize } from '@arch-ui/theme';
 
 export const Table = props => {

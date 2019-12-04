@@ -1,7 +1,4 @@
 // @flow
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
 import { Component, Fragment } from 'react';
 import Select from '@arch-ui/select';
 import { CheckMark, Options, OptionPrimitive } from '@arch-ui/options';

@@ -1,6 +1,4 @@
-/** @jsx jsx */
 import { Component, Fragment } from 'react';
-import { jsx } from '@emotion/core';
 import styled from '@emotion/styled';
 
 import copyToClipboard from 'clipboard-copy';

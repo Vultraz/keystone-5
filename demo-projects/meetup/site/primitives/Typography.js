@@ -1,7 +1,4 @@
-/** @jsx jsx */
-
 import PropTypes from 'prop-types';
-import { jsx } from '@emotion/core';
 import { fontSizes } from '../theme';
 import { mq } from '../helpers/media';
 

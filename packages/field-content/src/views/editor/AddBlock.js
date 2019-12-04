@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { createPortal } from 'react-dom';
 import { useState, useCallback, useRef, Fragment, useLayoutEffect } from 'react';
 import { getVisibleSelectionRect } from 'get-selection-range';

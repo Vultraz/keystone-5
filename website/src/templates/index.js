@@ -1,12 +1,9 @@
-/** @jsx jsx */
-
 import React, { Fragment } from 'react'; // eslint-disable-line no-unused-vars
 import { Helmet } from 'react-helmet';
 import { graphql } from 'gatsby';
 import MDXRenderer from 'gatsby-mdx/mdx-renderer';
 
 import { MDXProvider } from '@mdx-js/react';
-import { jsx } from '@emotion/core';
 import { SkipNavContent } from '@reach/skip-nav';
 import { borderRadius, colors, gridSize } from '@arch-ui/theme';
 

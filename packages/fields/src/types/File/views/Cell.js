@@ -1,7 +1,4 @@
 // @flow
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
 import type { CellProps } from '../../../types';
 
 type ImageProps = { alt: string, src: string };

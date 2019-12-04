@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { useRef, Fragment, useLayoutEffect, forwardRef, useMemo } from 'react';
 import { createPortal } from 'react-dom';
 import { Popper } from 'react-popper';

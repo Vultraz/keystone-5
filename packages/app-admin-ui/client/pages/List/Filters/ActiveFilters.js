@@ -1,7 +1,4 @@
-/** @jsx jsx */
-
 import { Fragment } from 'react';
-import { jsx } from '@emotion/core';
 import { Pill } from '@arch-ui/pill';
 import { Button } from '@arch-ui/button';
 import { gridSize } from '@arch-ui/theme';

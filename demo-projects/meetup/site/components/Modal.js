@@ -1,7 +1,4 @@
-/** @jsx jsx */
-
 import { createPortal } from 'react-dom';
-import { jsx } from '@emotion/core';
 
 import { useKeydown, useLogoDimension } from '../helpers';
 import { mq } from '../helpers/media';

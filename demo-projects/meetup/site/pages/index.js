@@ -1,7 +1,5 @@
-/** @jsx jsx */
 import { Query } from 'react-apollo';
 import getConfig from 'next/config';
-import { jsx } from '@emotion/core';
 
 import Link from 'next/link';
 import EventItems from '../components/EventItems';

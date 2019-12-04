@@ -1,6 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
-
 import { H3, Html, AvatarStack } from '../primitives';
 import { mq } from '../helpers/media';
 import { colors } from '../theme';

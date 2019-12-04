@@ -3,13 +3,10 @@ import Link from 'next/link';
 import gql from 'graphql-tag';
 import { Query } from 'react-apollo';
 
-import { jsx } from '@emotion/core';
 import { format } from 'date-fns';
 
 import Layout from '../templates/layout';
 import Header from '../components/header';
-
-/** @jsx jsx */
 
 const Post = ({ post }) => {
   return (

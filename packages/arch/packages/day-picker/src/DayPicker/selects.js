@@ -1,6 +1,4 @@
 // @flow
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import * as React from 'react';
 import { setMonth, format } from 'date-fns';
 import { memo, useState, useEffect } from 'react';

@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import PropTypes from 'prop-types';
 import { colors } from '../theme';
 import NextLink from 'next/link';

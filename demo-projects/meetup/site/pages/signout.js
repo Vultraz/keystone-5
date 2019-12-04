@@ -1,8 +1,5 @@
-/** @jsx jsx */
-
 import { useEffect } from 'react';
 import Router from 'next/router';
-import { jsx } from '@emotion/core';
 
 import { useAuth } from '../lib/authetication';
 import { Container } from '../primitives';

@@ -1,7 +1,5 @@
 // @flow
 
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { Component, type Ref, type Node, useMemo } from 'react';
 import ResizeObserver from 'resize-observer-polyfill';
 

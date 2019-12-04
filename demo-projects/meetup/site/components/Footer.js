@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import getConfig from 'next/config';
 
 import { Button, Html } from '../primitives';

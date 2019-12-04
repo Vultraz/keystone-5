@@ -1,6 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
-
 import EventItem from './EventItem';
 import { gridSize } from '../../theme';
 import { media } from '../../helpers/media';

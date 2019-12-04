@@ -1,6 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
-
 import { colors } from '@arch-ui/theme';
 import { mq } from '../utils/media';
 

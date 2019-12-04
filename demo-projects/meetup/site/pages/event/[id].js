@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { Component } from 'react';
 import { Query } from 'react-apollo';
 

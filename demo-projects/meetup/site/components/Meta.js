@@ -1,10 +1,7 @@
-/** @jsx jsx */
-
 import { Children } from 'react';
 import uniqBy from 'lodash.uniqby';
 import getConfig from 'next/config';
 import Head from 'next/head';
-import { jsx } from '@emotion/core';
 
 const {
   publicRuntimeConfig: { meetup },

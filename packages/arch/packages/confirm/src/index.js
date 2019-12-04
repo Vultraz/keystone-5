@@ -1,10 +1,7 @@
 // @flow
-/** @jsx jsx */
-
 import { Fragment, PureComponent, type ComponentType, type Node, forwardRef } from 'react';
 import { createPortal } from 'react-dom';
 import ScrollLock from 'react-scrolllock';
-import { jsx } from '@emotion/core';
 import styled from '@emotion/styled';
 
 import { borderRadius, shadows } from '@arch-ui/theme';

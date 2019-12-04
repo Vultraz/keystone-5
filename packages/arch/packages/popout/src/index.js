@@ -1,7 +1,4 @@
 // @flow
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
 import { Component, forwardRef, type Element } from 'react';
 import { createPortal } from 'react-dom';
 

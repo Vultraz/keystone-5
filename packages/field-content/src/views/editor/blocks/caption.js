@@ -1,6 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
-
 export let type = 'caption';
 
 export function Node({ attributes, children }) {

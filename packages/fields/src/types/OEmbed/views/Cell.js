@@ -1,7 +1,3 @@
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
-
 import Preview from './preview';
 
 const Cell = ({ data, field }) => {

@@ -1,7 +1,5 @@
-/** @jsx jsx */
-
 import React, { useState } from 'react'; // eslint-disable-line no-unused-vars
-import { jsx, Global } from '@emotion/core';
+import { Global } from '@emotion/core';
 import { colors, globalStyles } from '@arch-ui/theme';
 import { SkipNavLink } from '@reach/skip-nav';
 

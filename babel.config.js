@@ -16,6 +16,7 @@ module.exports = {
     ],
     '@babel/preset-react',
     '@babel/preset-flow',
+    '@emotion/babel-preset-css-prop',
   ],
   plugins: [
     '@babel/plugin-transform-runtime',

@@ -1,8 +1,4 @@
 // @flow
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
-
 import { colors } from '@arch-ui/theme';
 import { alpha } from '@arch-ui/color-utils';
 

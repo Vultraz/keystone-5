@@ -1,6 +1,3 @@
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
 import PropTypes from 'prop-types';
 
 const SIZE_MAP = {

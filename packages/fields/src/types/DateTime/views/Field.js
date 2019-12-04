@@ -1,8 +1,4 @@
 // @flow
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
-
 import { FieldContainer, FieldLabel, FieldInput } from '@arch-ui/fields';
 import { TextDayTimePicker } from '@arch-ui/day-picker';
 

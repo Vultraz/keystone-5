@@ -1,6 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
-
 export let type = 'paragraph';
 
 export function Node({ attributes, children }) {

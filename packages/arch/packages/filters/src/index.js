@@ -1,6 +1,4 @@
 // @flow
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { Children } from 'react';
 import {
   CheckboxGroup as _CheckboxGroup,

@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { useMemo } from 'react';
 import { Editor } from 'slate-react';
 import { Block } from 'slate';

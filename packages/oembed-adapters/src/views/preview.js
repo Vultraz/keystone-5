@@ -1,6 +1,3 @@
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
 import { useRef, useEffect } from 'react';
 
 let importPromise;

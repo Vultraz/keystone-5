@@ -1,6 +1,3 @@
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
 import { borderRadius, gridSize, shadows } from '@arch-ui/theme';
 
 // ==============================

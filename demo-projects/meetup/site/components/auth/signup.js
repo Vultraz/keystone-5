@@ -1,9 +1,6 @@
-/** @jsx jsx */
-
 import { useState, useEffect } from 'react';
 import { Mutation } from 'react-apollo';
 import Router from 'next/router';
-import { jsx } from '@emotion/core';
 
 import { useAuth } from '../../lib/authetication';
 import { Button, Field, Label, Input } from '../../primitives/forms';

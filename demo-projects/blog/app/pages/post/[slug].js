@@ -6,13 +6,10 @@ import React from 'react';
 import { Mutation, Query } from 'react-apollo';
 import { useState } from 'react';
 
-import { jsx } from '@emotion/core';
 import { format } from 'date-fns';
 
 import Layout from '../../templates/layout';
 import Header from '../../components/header';
-
-/** @jsx jsx */
 
 const ADD_COMMENT = gql`
   mutation AddComment($body: String!, $author: ID!, $postId: ID!, $posted: DateTime!) {

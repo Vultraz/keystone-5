@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { Fragment, useState, useCallback, createContext, useContext } from 'react';
 import pluralize from 'pluralize';
 import { Input } from '@arch-ui/input';

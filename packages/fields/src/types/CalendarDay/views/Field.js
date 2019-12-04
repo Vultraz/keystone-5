@@ -1,6 +1,3 @@
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
 import { getYear } from 'date-fns';
 import { Component } from 'react';
 

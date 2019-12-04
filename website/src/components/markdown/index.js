@@ -1,7 +1,4 @@
-/** @jsx jsx */
-
 import React from 'react'; // eslint-disable-line no-unused-vars
-import { jsx } from '@emotion/core';
 import { colors } from '@arch-ui/theme';
 
 import { Link } from 'gatsby';

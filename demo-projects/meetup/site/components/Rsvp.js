@@ -1,6 +1,4 @@
-/** @jsx jsx */
 import { Mutation, Query } from 'react-apollo';
-import { jsx } from '@emotion/core';
 
 import { Button as ButtonPrimitive, CheckmarkIcon, Loading } from '../primitives';
 import { useAuth } from '../lib/authetication';

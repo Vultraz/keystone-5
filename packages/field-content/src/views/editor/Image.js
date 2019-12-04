@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { useLayoutEffect, forwardRef } from 'react';
 import { Popper } from 'react-popper';
 import { useStateWithEqualityCheck } from './hooks';

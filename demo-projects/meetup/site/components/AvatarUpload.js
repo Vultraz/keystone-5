@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { useState } from 'react';
 import PropTypes from 'prop-types';
 import gql from 'graphql-tag';

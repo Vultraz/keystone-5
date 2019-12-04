@@ -1,6 +1,4 @@
-/** @jsx jsx */
-
-import { jsx, keyframes } from '@emotion/core';
+import { keyframes } from '@emotion/core';
 import { forwardRef, useEffect, useRef, useState } from 'react';
 
 import { SearchIcon, XIcon } from '@arch-ui/icons';

@@ -1,8 +1,5 @@
-/** @jsx jsx */
-
 import { useContext, createContext } from 'react';
 import getConfig from 'next/config';
-import { jsx } from '@emotion/core';
 
 import Link from 'next/link';
 import { useAuth } from '../lib/authetication';

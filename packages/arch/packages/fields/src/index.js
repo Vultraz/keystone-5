@@ -1,7 +1,4 @@
 // @flow
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
 import { colors, gridSize } from '@arch-ui/theme';
 import { ShieldIcon } from '@arch-ui/icons';
 import { Lozenge } from '@arch-ui/lozenge';

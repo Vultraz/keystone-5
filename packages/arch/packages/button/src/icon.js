@@ -1,7 +1,4 @@
 // @flow
-
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { type ComponentType, forwardRef } from 'react';
 import { Button, type ButtonProps } from './primitives';
 

@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { Suspense, Fragment, useState, createContext, useContext } from 'react';
 import { Button } from '@arch-ui/button';
 import PreviewPlaceholder from '../preview';

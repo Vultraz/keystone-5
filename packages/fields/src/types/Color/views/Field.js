@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { Fragment, useMemo } from 'react';
 import { FieldContainer, FieldLabel, FieldInput } from '@arch-ui/fields';
 import Popout from '@arch-ui/popout';

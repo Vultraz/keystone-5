@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { Fragment } from 'react';
 
 import { Grid, Cell } from '@arch-ui/layout';

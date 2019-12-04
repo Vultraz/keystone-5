@@ -1,9 +1,6 @@
-/** @jsx jsx */
-
 import React, { Fragment } from 'react'; // eslint-disable-line no-unused-vars
 import { Link } from 'gatsby';
 import { colors, gridSize } from '@arch-ui/theme';
-import { jsx } from '@emotion/core';
 import { useNavData } from '../utils/hooks';
 
 export const SidebarNav = () => {

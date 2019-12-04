@@ -1,7 +1,4 @@
-/** @jsx jsx */
-
 import { forwardRef, useState, useMemo } from 'react';
-import { jsx } from '@emotion/core';
 import { styles } from './styles';
 import { A11yText } from '@arch-ui/typography';
 import Tooltip from '@arch-ui/tooltip';

@@ -1,7 +1,3 @@
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
-
 import theme from '../../prism-themes/custom';
 
 function themeToDict(theme, language) {

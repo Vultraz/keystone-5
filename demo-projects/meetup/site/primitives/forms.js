@@ -1,6 +1,3 @@
-/** @jsx jsx */
-
-import { jsx } from '@emotion/core';
 import { Children } from 'react';
 import NextLink from 'next/link';
 

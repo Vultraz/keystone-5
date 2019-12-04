@@ -1,6 +1,5 @@
 // @flow
-/** @jsx jsx */
-import { jsx, keyframes } from '@emotion/core';
+import { keyframes } from '@emotion/core';
 import { Component } from 'react';
 
 const pulse = keyframes`

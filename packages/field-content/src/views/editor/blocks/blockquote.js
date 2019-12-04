@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { hasAncestorBlock } from '../utils';
 import { QuoteIcon } from '@arch-ui/icons';
 import { ToolbarButton } from '../toolbar-components';

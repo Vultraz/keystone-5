@@ -1,6 +1,4 @@
 // @flow
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
 import { useState, useEffect, useRef } from 'react';
 import chrono from 'chrono-node';
 import { Input } from '@arch-ui/input';
